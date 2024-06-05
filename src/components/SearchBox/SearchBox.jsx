@@ -1,4 +1,4 @@
-import css from "./SearcBox.module.css";
+import css from "./SearchBox.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { selectNameFilter } from "../../redux/selectors";
 import { setStatusFilter } from "../../redux/filtersSlise";
