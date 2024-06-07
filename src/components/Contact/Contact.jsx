@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import css from "./Contact.module.css";
 import { useDispatch } from "react-redux";
-import { deleteContact } from "../../redux/contactsSlise";
+import { deleteContact } from "../../redux/contactsSlice";
 
 // ../../redux/contactsSlice
 
